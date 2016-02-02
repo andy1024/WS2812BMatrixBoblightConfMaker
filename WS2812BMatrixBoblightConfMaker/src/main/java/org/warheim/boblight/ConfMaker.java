@@ -10,6 +10,9 @@ import java.io.PrintWriter;
 import java.util.Date;
 
 /**
+ * based on:
+ * https://code.google.com/archive/p/boblight/wikis/boblightconf.wiki
+ * http://www.tweaking4all.com/home-theatre/xbmc/xbmc-boblight-openelec-ws2811-ws2812/
  *
  * @author andy
  */
